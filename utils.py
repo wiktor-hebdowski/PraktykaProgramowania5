@@ -1,5 +1,5 @@
 # Calculator
-
+'''Calculator'''
 
 def add(a: int, b: int) -> int:
     '''sums two integers'''
